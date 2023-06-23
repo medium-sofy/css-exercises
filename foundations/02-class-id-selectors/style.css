@@ -11,3 +11,9 @@
 .paragraph.specific{
     font-size:24px
 }
+
+#div2{
+    background-color: rgb(156, 244, 113);
+    font-size: 24px;
+    font-weight: bold;
+}
