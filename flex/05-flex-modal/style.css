@@ -17,11 +17,9 @@ body {
 
 .modal {
   background: white;
-  padding:10px;
   width: 480px;
   border-radius: 10px;
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
-  
 }
 
 .icon {
@@ -68,22 +66,4 @@ button.cancel {
   background: white;
   border: 1px solid #ddd;
   color: royalblue;
-}
-
-.warning{
-  display:flex;
-  justify-content: flex-start;
-  align-items: center;
-  gap: 10px;
-}
-.header{
-  margin-right: auto;
-  font-weight: bold;
-  font-size: 18px;
-}
-.main-content{
-  margin-left:50px;
-}
-.text{
-  margin-bottom:20px;
 }
